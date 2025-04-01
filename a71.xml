@@ -8,7 +8,7 @@
   <project name="LineageOS/android_kernel_samsung_a71" path="kernel/samsung/a71" remote="github" revision="lineage-22.2" />[citation:2][citation:4]
 
   <!-- Vendor blobs -->
-  <project name="TheMuppets/proprietary_vendor_samsung_a71" path="vendor/samsung/a71" remote="github" revision="lineage-22.2" />[citation:2]
+  <project name="rmuxnet/proprietary_vendor_samsung_a71" path="vendor/samsung/a71" remote="github" revision="lineage-22.2" />[citation:2]
   <project name="TheMuppets/proprietary_vendor_samsung_a71-common" path="vendor/samsung/a71-common" remote="github" revision="lineage-22.2" />[citation:2]
 
   <!-- Hardware support -->
